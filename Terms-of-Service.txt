@@ -1,0 +1,42 @@
+Terms of Service for QuoteBot
+
+Last Updated: October 5, 2024
+
+These Terms of Service ("Terms") govern your use of QuoteBot (the "Bot") on Twitch and Discord. By using the Bot, you agree to comply with these Terms. If you do not agree to these Terms, you should not use the Bot.
+1. Acceptance of Terms
+
+By accessing or using the Bot, you confirm that you have read, understood, and agree to be bound by these Terms.
+2. Eligibility
+
+You must be at least 13 years old to use the Bot. By using the Bot, you represent and warrant that you meet this age requirement.
+3. User Responsibilities
+
+    Account Security: You are responsible for maintaining the confidentiality of your account information and for all activities that occur under your account.
+    Prohibited Conduct: You agree not to use the Bot for any unlawful purpose or to engage in any conduct that restricts or inhibits anyone's use or enjoyment of the Bot.
+
+4. Content
+
+    User-Generated Content: The Bot allows users to submit quotes. By submitting quotes, you grant us a non-exclusive, royalty-free, perpetual, and worldwide license to use, reproduce, modify, and publish your content in connection with the Bot.
+    No Offensive Content: You agree not to submit any content that is offensive, abusive, defamatory, or otherwise inappropriate.
+
+5. Termination
+
+We reserve the right to suspend or terminate your access to the Bot at our discretion, without notice, for conduct that we believe violates these Terms or is harmful to other users or the Bot.
+6. Disclaimer of Warranties
+
+The Bot is provided on an "as is" and "as available" basis. We do not warrant that the Bot will be uninterrupted, error-free, or free from viruses or other harmful components.
+7. Limitation of Liability
+
+To the fullest extent permitted by law, we shall not be liable for any direct, indirect, incidental, special, consequential, or punitive damages arising from your use of or inability to use the Bot, even if we have been advised of the possibility of such damages.
+8. Indemnification
+
+You agree to indemnify and hold harmless QuoteBot, its affiliates, and their respective officers, directors, and employees from any claims, losses, liabilities, damages, costs, or expenses (including reasonable attorneys' fees) arising out of your use of the Bot or violation of these Terms.
+9. Changes to These Terms
+
+We reserve the right to modify these Terms at any time. We will notify you of any changes by posting the new Terms on this page. Your continued use of the Bot after any changes constitutes your acceptance of the new Terms.
+10. Governing Law
+
+These Terms shall be governed by and construed in accordance with the laws of Germany, without regard to its conflict of law principles.
+11. Contact Information
+
+If you have any questions or concerns about these Terms, please contact us at moehunt3r@outlook.de.
