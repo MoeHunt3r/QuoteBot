@@ -1,0 +1,37 @@
+Privacy Policy for QuoteBot
+
+Last Updated: 05/10/2024
+
+This Privacy Policy describes how QuoteBot (hereinafter referred to as "we," "us," or "our") collects, uses, and shares personal information when you use our bot on Twitch and Discord.
+1. Data Collection
+
+We do not collect personal data directly from you. However, the bot processes some information to provide its functionalities:
+
+    User Data: When you use the bot, we may store the username and user ID of the Twitch or Discord user to manage and store quotes.
+    Messages: The bot processes messages sent in Twitch or Discord chats to respond to commands.
+
+2. Data Usage
+
+The collected data will be used to provide the following functionalities:
+
+    Quote Management: The bot stores quotes added by users and retrieves them upon request.
+    Interactions: The bot processes commands sent in chats and responds accordingly.
+
+3. Data Sharing
+
+We do not share your personal data with third parties unless required by law or to fulfill a legal obligation. We do not share data with advertisers or other companies.
+4. Data Storage
+
+The collected data is stored in a JSON file on the server. This data may include quotes, usernames, and IDs. We store the data as long as necessary for the functionality of the bot.
+5. User Rights
+
+You have the right to access, correct, or delete your personal data that we hold. If you have a request to delete or modify your data, please contact us at [your email address].
+6. Security
+
+We are committed to ensuring the security of your data. We implement appropriate technical and organizational measures to protect your data from unauthorized access, loss, or misuse.
+7. Changes to This Privacy Policy
+
+We reserve the right to change this Privacy Policy at any time. Changes will be posted on this page, and the date of the last update will be indicated at the top of this page.
+8. Contact
+
+If you have any questions or concerns about this Privacy Policy, please contact us at moehunt3r@outlook.de
