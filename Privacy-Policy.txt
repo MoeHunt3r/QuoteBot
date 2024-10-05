@@ -1,6 +1,6 @@
 Privacy Policy for QuoteBot
 
-Last Updated: 05/10/2024
+Last Updated: October 5th 2024
 
 This Privacy Policy describes how QuoteBot (hereinafter referred to as "we," "us," or "our") collects, uses, and shares personal information when you use our bot on Twitch and Discord.
 1. Data Collection
